@@ -3,6 +3,7 @@ Short service for short time
 
 Links:
 1. https://dev471447.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=wi6IB-E%25i3vF
+2. https://chatgpt.com/share/6aed128d-4eec-83e8-b9d0-5ee3bb8fea12?ogimg=plain
 
 ## 8. UI Action
 a)
